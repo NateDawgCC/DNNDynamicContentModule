@@ -1,0 +1,136 @@
+﻿<dotnetnuke type="ResourceFile" version="5.0">
+  <files>
+    <file>
+      <path />
+      <name>DNNDynamicContentModule.csproj</name>
+    </file>
+    <file>
+      <path />
+      <name>DNNDynamicContentModuleModuleBase.cs</name>
+    </file>
+    <file>
+      <path />
+      <name>DNNDynamicContentModuleModuleSettingsBase.cs</name>
+    </file>
+    <file>
+      <path />
+      <name>License.txt</name>
+    </file>
+    <file>
+      <path />
+      <name>module.css</name>
+    </file>
+    <file>
+      <path />
+      <name>ReleaseNotes.txt</name>
+    </file>
+    <file>
+      <path />
+      <name>Settings.ascx</name>
+    </file>
+    <file>
+      <path />
+      <name>Settings.ascx.cs</name>
+    </file>
+    <file>
+      <path />
+      <name>Settings.ascx.designer.cs</name>
+    </file>
+    <file>
+      <path />
+      <name>View.ascx</name>
+    </file>
+    <file>
+      <path />
+      <name>View.ascx.cs</name>
+    </file>
+    <file>
+      <path />
+      <name>View.ascx.designer.cs</name>
+    </file>
+    <file>
+      <path>App_LocalResources/</path>
+      <name>Settings.ascx.resx</name>
+    </file>
+    <file>
+      <path>App_LocalResources/</path>
+      <name>View.ascx.resx</name>
+    </file>
+    <file>
+      <path>bin/</path>
+      <name>System.Net.Http.Formatting.xml</name>
+    </file>
+    <file>
+      <path>bin/</path>
+      <name>System.Net.Http.xml</name>
+    </file>
+    <file>
+      <path>bin/</path>
+      <name>System.Web.Http.xml</name>
+    </file>
+    <file>
+      <path>BuildScripts/</path>
+      <name>ModulePackage.targets</name>
+    </file>
+    <file>
+      <path>BuildScripts/</path>
+      <name>MSBuild.Community.Tasks.Targets</name>
+    </file>
+    <file>
+      <path>Components/</path>
+      <name>DynamicContentController.cs</name>
+    </file>
+    <file>
+      <path>Components/</path>
+      <name>DynamicContentItem.cs</name>
+    </file>
+    <file>
+      <path>Components/</path>
+      <name>DynamicContentSorter.cs</name>
+    </file>
+    <file>
+      <path>Components/</path>
+      <name>FeatureController.cs</name>
+    </file>
+    <file>
+      <path>Components/</path>
+      <name>ModuleSecurity.cs</name>
+    </file>
+    <file>
+      <path>Components/</path>
+      <name>Utilities.cs</name>
+    </file>
+    <file>
+      <path>Properties/</path>
+      <name>AssemblyInfo.cs</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>DNNDynamicContentModule.data.js</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>DNNDynamicContentModule.js</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>knockout-2.1.0.js</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>knockout.mapping.js</name>
+    </file>
+    <file>
+      <path>Scripts/</path>
+      <name>ko-binding-handlers.js</name>
+    </file>
+    <file>
+      <path>Services/</path>
+      <name>ServiceController.cs</name>
+    </file>
+    <file>
+      <path>Services/</path>
+      <name>ServiceRouteMapper.cs</name>
+    </file>
+  </files>
+</dotnetnuke>

@@ -1,0 +1,23 @@
+﻿<h3>DNNDynamicContentModule</h3>
+<p class="Contributor">
+	DNN Corp <br />
+	Nathan Rover <br />
+	<a href="mailto:Nathan.Rover@DNNSoftware.com">Nathan.Rover@DNNSoftware.com</a><br />
+</p>
+<hr/>
+<div class="License">
+	<h3>About the DNNDynamicContentModule</h3>
+	<p class="Owner">
+		<b>Version 1.0.0</b><br /><br />
+	</p>
+	<p>This is the initial release of the the dynamic content module.</p>
+	
+	<!--<h4>Bug Fixes</h4>
+	<ul>
+			<li>List</li>
+			<li>of</li>
+			<li>bug</li>
+			<li>fixes</li>
+	</ul>-->
+	
+</div>
